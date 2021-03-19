@@ -1,5 +1,4 @@
 <h1 align="center">Меры центральности</h1>
-<h2 align="center">
   
   **Мера центральности** определяет наиболее важные вершины графа. Центральность применяется для выявления наиболее влиятельных лиц в социальной сети, **ключевых узлов** инфраструктуры в интернете или городских сетей и разносчиков болезни. При анализе больших графов большое внимание уделяют различным центральностям.
   
@@ -10,13 +9,10 @@
 - **Eigenvector centrality** 
 - **Hubs and authorities** 
  
- <h2 align="center">
   
-### Degree centrality:
+  ### Degree centrality:
   
   Важность узла в графе можно анализировать разными способами. Самый простой — отсортировать участников **по количеству входящих ребер**. У кого больше — тот более важен.
-  
-   <h2 align="center">
   
   ### Pagerank:
   
@@ -26,16 +22,12 @@
 <p align="center">
 <img src="https://cdn1.savepice.ru/uploads/2021/3/19/9d7604663c84453df4d3080eae00f9e3-full.png">
   
-<h2 align="center">
-  
   ### Eigenvector centrality
   
   В общем случае имеется много различных **собственных значений** , для которых существует ненулевой собственный вектор. Однако, из дополнительного требования, чтобы все элементы собственного вектора были неотрицательны, следует (по теореме Фробениуса — Перрона), что только **наибольшее собственное значение** приводит к желательной мере центральности
   
   <p align="center">
 <img src="https://cdn1.savepice.ru/uploads/2021/3/19/f173d4992f72531715f564ecb43c8136-full.png">
-  
-  <h2 align="center">
   
   ### Hubs and authorities
   
@@ -57,8 +49,6 @@
   <p align="center">
 <img src="https://cdn1.savepice.ru/uploads/2021/3/19/320973291d2e8626d818da24b9c6519c-full.png">
   
-  <h2 align="center">
-  
   ### Практическая часть
   
   - Для анализа была выбрана Wikipedia на русском языке (https://ru.wikipedia.org/wiki/);
@@ -70,9 +60,9 @@
   
   'https://ru.wikipedia.org/wiki/Озон', 'https://ru.wikipedia.org/wiki/Древнегреческий_язык', 'https://ru.wikipedia.org/wiki/Аммиак', 'https://ru.wikipedia.org/wiki/Теплота_испарения', 'https://ru.wikipedia.org/wiki/SMILES', 'https://ru.wikipedia.org/wiki/Фреон', 'https://ru.wikipedia.org/wiki/Экстракорпоральная_мембранная_оксигенация', 'https://ru.wikipedia.org/wiki/ Химическая_энциклопедия', 'https://ru.wikipedia.org/wiki/Гидроксид_калия', 'https://ru.wikipedia.org/wiki/Дебай', 'https:// ru.wikipedia.org/wiki/1785_год', 'https://ru.wikipedia.org/wiki/Внутривенное_вливание', 'https://ru.wikipedia.org/wiki/ Соляная_кислота', 'https://ru.wikipedia.org/wiki/Озон', 'https://ru.wikipedia.org/wiki/Дезинфекция', 'https://ru.wikipedia.org/wiki/ Детонация', 'https://ru.wikipedia.org/wiki/Температура_кипения', 'https://ru.wikipedia.org/wiki/Фосфор', 'https://ru.wikipedia.org/ wiki/Диоксин', 'https://ru.wikipedia.org/wiki/Нитрат_аммония', 'https://ru.wikipedia.org/wiki/Молярная_теплоёмкость', 'https:// ru.wikipedia.org/wiki/Азот', 'https://ru.wikipedia.org/wiki/Хлорирование', 'https://ru.wikipedia.org/wiki/PubChem', 'https:// ru.wikipedia.org/wiki/Gemeinsame_Normdatei'
 
-#### файл с разреженной матрицей wiki_sparse.npz
+#### файл с разреженной матрицей
 
-### Результаты вычислений:
+### Результаты вычислений
 
   <p align="center">
 <img src="https://cdn1.savepice.ru/uploads/2021/3/19/49f945b0cd27b3af9381407879393a39-full.png">
