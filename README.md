@@ -43,11 +43,7 @@
 ![f2]
 
   <p align="center">
-<img src="https://cdn1.savepice.ru/uploads/2021/3/19/5e8aeb864d5abc574e86231979f67cb8-full.png">
-
-
-  <p align="center">
-<img src="https://cdn1.savepice.ru/uploads/2021/3/19/320973291d2e8626d818da24b9c6519c-full.png">
+<img src="https://i.gyazo.com/c70c5c84a1abe512d99947a3684b83e8.png">
   
   ### Практическая часть
   
@@ -65,28 +61,28 @@
 ### Результаты вычислений
 
   <p align="center">
-<img src="https://cdn1.savepice.ru/uploads/2021/3/19/49f945b0cd27b3af9381407879393a39-full.png">
+<img src="https://i.gyazo.com/ef760ab72d4049e5d3745ef0f16c5f12.png">
   
   <p align="center">
-<img src="https://cdn1.savepice.ru/uploads/2021/3/19/ff9a52dda030b6ceff30bf711d5b0707-full.png">
+<img src="https://i.gyazo.com/d415a9a4c5fe376bfba0cfb11bfd3cbe.png">
 
   <p align="center">
-<img src="https://cdn1.savepice.ru/uploads/2021/3/19/723a862fe01e812b1251e48038a070c1-full.png">
+<img src="https://i.gyazo.com/8d9e792cf2c2c167347b7e3e2805200b.png">
   
   <p align="center">
-<img src="https://cdn1.savepice.ru/uploads/2021/3/19/845ae5ac124a48fbb042220db08c0967-full.png">
+<img src="https://i.gyazo.com/d699ac9eaa8f20b3d9cd467df93ce1cb.png">
   
    <p align="center">
-<img src="https://cdn1.savepice.ru/uploads/2021/3/19/7ad7736661801791f0cfe0127443c120-full.png">
+<img src="https://i.gyazo.com/fafd4b9d75affdc840a584b9fa51847c.png">
   
   <p align="center">
-<img src="https://cdn1.savepice.ru/uploads/2021/3/19/019a2211373ad8f3c8fc87c3d96c5ebb-full.png">
+<img src="https://i.gyazo.com/a1af32c4161657bdaa8b81b7e7b2b935.png">
   
    <p align="center">
-<img src="https://cdn1.savepice.ru/uploads/2021/3/19/ac0bc656edd6acd3ef1050a5ccd57121-full.png">
+<img src="https://i.gyazo.com/b892e6422478b7f133df9857afd8aeb5.png">
 
    <p align="center">
-<img src="https://cdn1.savepice.ru/uploads/2021/3/19/4c6400f8063ae3bd5029056fc129eea1-full.png">
+<img src="https://i.gyazo.com/63eebd54bcc0946b9749844d8db7e488.png">
   
 [f1]: http://chart.apis.google.com/chart?cht=tx&chl=a_i\leftarrow\sum\limits_iA_{ij}h_j
 [f2]: http://chart.apis.google.com/chart?cht=tx&chl=h_i\leftarrow\sum\limits_iA_{ij}a_j
